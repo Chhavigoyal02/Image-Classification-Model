@@ -49,7 +49,7 @@ So,here are the step I followed in this problem statement:
 
 - Activation function for all the layers is ReLU(Rectified Unit Layer) except the output one .It has softmax function.
 
-*Here, I gave number of epochs as 20. An epoch is when all the training data is used at once and is defined as the total number of iterations of all the training    data in one cycle for training the machine learning model. 
+- Here, I gave number of epochs as 20. An epoch is when all the training data is used at once and is defined as the total number of iterations of all the training    data in one cycle for training the machine learning model. 
 
 -->Step-5: Evaluate the Model.
 
