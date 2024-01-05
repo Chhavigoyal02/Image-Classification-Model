@@ -24,7 +24,6 @@ Data Source: https://www.cs.toronto.edu/~kriz/cifar.html
 -- First of all,we need to check whether it is regression task or classifiction task...
         
     It is a classification task as we have to classify the images in their true classes..
--- Here,we are going to use Convolutional Neural Networks(CNNs) to get this task done.
 
 Convolutional Neural Networks(CNNs) are extended version of Artifical neural netwroks (ANNs) which are predominantly used to extract the feature from grid like matrix. It is used in visual datasets like images or videos where data patterns play an extensive role.
 
